@@ -125,41 +125,6 @@ A estilização do site está centralizada no arquivo:
 CSS/estilos.css
 ```
 
-O arquivo contém as regras responsáveis pela aparência das páginas, incluindo elementos como:
-
-* Layout;
-* Tipografia;
-* Espaçamentos;
-* Cores;
-* Formatação de menus;
-* Formulários;
-* Elementos das páginas;
-* Organização visual do site.
-
-A utilização de uma folha de estilos centralizada facilita a manutenção e mantém uma identidade visual consistente entre as páginas.
-
----
-
-# Recursos Multimídia
-
-Os arquivos multimídia utilizados no projeto estão armazenados na pasta:
-
-```text
-img/
-```
-
-### Arquivos
-
-**`cachorrogif.gif`**
-
-Imagem no formato GIF utilizada como recurso visual no site.
-
-**`videoteste.mp4`**
-
-Vídeo utilizado para demonstrar a utilização de conteúdo audiovisual em uma página HTML.
-
----
-
 #  Navegação
 
 As páginas do projeto são interligadas por meio de links internos.
@@ -175,35 +140,5 @@ Página Inicial
     ├── Multimídia
     └── Gráficos
 ```
-
-Dessa forma, o visitante consegue navegar entre as diferentes páginas sem precisar acessar os arquivos diretamente.
-
----
-
-#  Tecnologias Utilizadas
-
-### HTML5
-
-Utilizado para criar a estrutura das páginas e organizar os conteúdos do site.
-
-### CSS3
-
-Utilizado para definir a aparência, organização e apresentação visual das páginas.
-
-### JavaScript
-
-Utilizado para adicionar recursos de interação e comportamento dinâmico ao projeto.
-
-### Git
-
-Utilizado para controle de versão do projeto.
-
-### GitHub
-
-Utilizado para armazenar o código-fonte e manter o histórico de desenvolvimento.
-
-### GitHub Pages
-
-Utilizado para disponibilizar o site publicamente na internet com HTTPS.
 
 ---
