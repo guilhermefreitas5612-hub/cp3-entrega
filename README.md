@@ -115,16 +115,6 @@ CP3/
     └── videoteste.mp4
 ```
 
----
-
-#  CSS
-
-A estilização do site está centralizada no arquivo:
-
-```text
-CSS/estilos.css
-```
-
 #  Navegação
 
 As páginas do projeto são interligadas por meio de links internos.
