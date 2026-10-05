@@ -1,4 +1,4 @@
-# 🚀 Site Pessoal / Portfólio — CP3
+# Site Pessoal / Portfólio — CP3
 
 Projeto desenvolvido para o **Checkpoint 3 (CP3)** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
@@ -6,15 +6,16 @@ O projeto consiste em um site pessoal/portfólio desenvolvido com **HTML5, CSS3 
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Guilherme Silva Freitas**
+**RGM 48425851**
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O site foi desenvolvido como parte da evolução do projeto do **CP2 para o CP3**, tendo como objetivo criar um site pessoal com diferentes conteúdos e páginas interligadas.
 
@@ -35,7 +36,7 @@ O projeto conta com:
 
 # 📄 Páginas do Site
 
-## 🏠 `index.html` — Página Inicial
+## `index.html` — Página Inicial
 
 É a página principal do site.
 
@@ -45,7 +46,7 @@ A página também funciona como ponto de entrada para a navegação pelas demais
 
 ---
 
-## 📚 `curriculo.html` — Currículo
+##  `curriculo.html` — Currículo
 
 Página destinada à apresentação das informações acadêmicas e profissionais.
 
@@ -55,7 +56,7 @@ O objetivo é funcionar como uma versão digital do currículo dentro do portfó
 
 ---
 
-## 📝 `formulario.html` — Formulário
+##  `formulario.html` — Formulário
 
 Página destinada ao formulário de interação com o usuário.
 
@@ -65,7 +66,7 @@ A página também faz parte da estrutura de navegação do site e pode ser utili
 
 ---
 
-## 📞 `contato.html` — Contato
+##  `contato.html` — Contato
 
 Página destinada às informações de contato.
 
@@ -73,20 +74,20 @@ Ela complementa o formulário e disponibiliza uma área específica para comunic
 
 ---
 
-## 🎬 `multimidia.html` — Multimídia
+##  `multimidia.html` — Multimídia
 
 Página dedicada à utilização de recursos multimídia.
 
 O projeto possui arquivos de mídia na pasta `img/`, incluindo:
 
-* 🐶 `cachorrogif.gif`
-* 🎥 `videoteste.mp4`
+*  `cachorrogif.gif`
+*  `videoteste.mp4`
 
 Esses recursos são utilizados para demonstrar a utilização de diferentes elementos multimídia em HTML.
 
 ---
 
-## 📊 `graficos.html` — Gráficos
+##  `graficos.html` — Gráficos
 
 Página dedicada à apresentação de informações por meio de gráficos e representações visuais de dados.
 
@@ -94,7 +95,7 @@ Ela complementa as demais páginas do portfólio, demonstrando a utilização de
 
 ---
 
-# 🗂️ Estrutura do Projeto
+#  Estrutura do Projeto
 
 ```text
 CP3/
@@ -116,7 +117,7 @@ CP3/
 
 ---
 
-# 🎨 CSS
+#  CSS
 
 A estilização do site está centralizada no arquivo:
 
@@ -139,7 +140,7 @@ A utilização de uma folha de estilos centralizada facilita a manutenção e ma
 
 ---
 
-# 🖼️ Recursos Multimídia
+# Recursos Multimídia
 
 Os arquivos multimídia utilizados no projeto estão armazenados na pasta:
 
@@ -159,7 +160,7 @@ Vídeo utilizado para demonstrar a utilização de conteúdo audiovisual em uma 
 
 ---
 
-# 🔗 Navegação
+#  Navegação
 
 As páginas do projeto são interligadas por meio de links internos.
 
@@ -179,7 +180,7 @@ Dessa forma, o visitante consegue navegar entre as diferentes páginas sem preci
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 ### HTML5
 
